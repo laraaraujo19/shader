@@ -31,7 +31,7 @@ void display()
         0.0f, 1.0f, 0.0f);
 
     desenhaChao();
-    desenhaTorresEPiramides();
+    desenhaTorresELosangos();
     desenhaPiramideDegraus();
 
     glutSwapBuffers();

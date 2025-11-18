@@ -69,7 +69,7 @@ void desenhaChao()
     glEnd();
 }
 
-void desenhaTorresEPiramides()
+void desenhaTorresELosangos()
 {
     float alturaTorre = 2.5f;
     float w = 0.7f;
@@ -105,7 +105,6 @@ void desenhaTorresEPiramides()
     }
 }
 
-// --------------------------------------------------
 void desenhaPiramideDegraus()
 {
     float alturaDegrau = 0.5f;

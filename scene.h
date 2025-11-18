@@ -8,7 +8,7 @@ extern float camX, camY, camZ;
 extern float yaw, pitch;
 
 void desenhaChao(void);
-void desenhaTorresEPiramides(void);
+void desenhaTorresELosangos(void);
 void desenhaPiramideDegraus(void);
 
 #endif

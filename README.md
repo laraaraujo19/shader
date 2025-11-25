@@ -33,6 +33,7 @@ Use o comando abaixo para compilar o projeto e executá-lo imediatamente:
 g++ main.cpp draw.cpp input.cpp scene.cpp texture.cpp shader.cpp \
     -o DoomLike \
     -lGLEW -lGL -lGLU -lglut && ./DoomLike
+```
 
 ## 🎮 Como Jogar
 

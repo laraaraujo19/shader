@@ -16,7 +16,7 @@ Certifique-se de ter instalados os seguintes pacotes no seu sistema Linux:
 
 ### 🖥️ Bibliotecas OpenGL
 - `freeglut`
-- `glew`
+- `glew` (NOVA BIBLIOTECA QUE PRECISA INSTALAR)
 - `mesa`
 - `glu`
 

@@ -1,3 +1,8 @@
+# ODEIOS
+- ODEIO HELOYSA
+- ODEIO AUZIER
+- ODEIO KELVIN
+
 # DoomLike OpenGL Project
 
 Este projeto utiliza **OpenGL (pipeline fixo + GLSL 1.20)** para renderização,  

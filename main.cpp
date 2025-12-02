@@ -116,11 +116,13 @@ int main(int argc, char **argv)
     glEnable(GL_DEPTH_TEST);
     glEnable(GL_TEXTURE_2D);
 
-    // carregando texturas
+// carregando texturas
     texChao = carregaTextura("assets/181.png");
+    texChao = carregaTextura("assets/178.png");
     texTorre = carregaTextura("assets/091.png");
     texDegrau = carregaTextura("assets/190.png");
     texEsfera = carregaTextura("assets/016.png");
+    texEsfera = carregaTextura("assets/583.png");
     texLava = carregaTextura("assets/179.png");
 
     // cria o shader

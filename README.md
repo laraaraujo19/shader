@@ -1,8 +1,4 @@
-# ODEIOS
-- ODEIO DÁRIO
-- ODEIO HELOYSA
-- ODEIO AUZIER
-- ODEIO KELVIN
+texturas
 
 # DoomLike OpenGL Project
 
